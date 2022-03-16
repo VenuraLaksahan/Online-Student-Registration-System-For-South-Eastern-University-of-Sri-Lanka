@@ -1,0 +1,10 @@
+Students Registration System For SEUSL - Connect Database & Run Students Registration System 
+
+Open XAMPP Control Panel and Start Apache & MySQL.
+Then Open Your Web Browser and Type "localhost/phpmyadmin/" in address bar. Run the URL.
+Click "Database" tab and Create New Database. Use Database name as "seusl" and Click 'Create' button.
+Then Click "Import" tab and Click 'Choose File'. Select the file from "sqlfile/seusl.sql" . Then Click 'Go' button.
+Copy 'seusl' folder to "C:\xampp\htdocs\" 
+Open Web Browser and Type "localhost/seusl/admin/index.php" to Run Student Registration System as Admin.
+Create an account for your Registraion Number with a password.
+Open Web Browser and Type "localhost/seusl/students/index.php" to Run Student Registration System as a student Using your Reg.No and Password.
